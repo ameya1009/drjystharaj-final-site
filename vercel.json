@@ -1,7 +1,7 @@
 {
   "functions": {
     "src/pages/api/**/*.js": {
-      "runtime": "nodejs24.3.0.x"
+      "runtime": "nodejs20.x"
     }
   },
   "rewrites": [
